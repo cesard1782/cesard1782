@@ -52,8 +52,8 @@ Apasionado por construir **aplicaciones escalables, seguras y eficientes** usand
 ## 📫 Contacto
 
 - 📧 Email: [cesard1782@gmail.com](mailto:cesar1782@gmail.com)  
-- 💻 GitHub: [github.com/cesardelgado](https://github.com/cesard1782)
-- 🌍 LinkedIn: [linkedin.com/in/cesardelgado-dev](https://linkedin.com/in/cesard1782)
+- 💻 GitHub: [github.com/cesard1782](https://github.com/cesard1782)
+- 🌍 LinkedIn: [linkedin.com/in/cesard1782](https://linkedin.com/in/cesard1782)
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Contact GIF">
