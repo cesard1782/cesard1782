@@ -17,7 +17,9 @@ Apasionado por construir **aplicaciones escalables, seguras y eficientes** usand
 - Experiencia en educación tecnológica, fortaleciendo mi habilidad de **comunicar conceptos complejos** y liderar proyectos.  
 - Actualmente en búsqueda de **oportunidades como Backend Developer o Full Stack Developer (Backend-focused)**.
 
-![Coding Banner](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Developer GIF">
+</div>
 
 ---
 
