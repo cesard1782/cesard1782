@@ -88,8 +88,8 @@ Actualmente estoy perfeccionando mis habilidades en **arquitecturas backend mode
   <a href="https://github.com/cesard1782"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-📍 Quito, Ecuador
-📞 [+593 964 005 165](tel:+593964005165)
+📍 Quito, Ecuador  
+📞 [+593 964 005 165](tel:+593964005165)  
 💬 [WhatsApp](https://wa.me/593964005165)   
 ✉️ cesard1782@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/cesard1782)  
