@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mí
 
-Soy **César Delgado**, un apasionado desarrollador web full stack con especial enfoque en **backend development** y más de **20 años de experiencia en educación tecnológica** 👨‍🏫.  
+Soy **César Delgado**, un apasionado desarrollador web full stack con especial enfoque en **backend development** y más de **21 años de experiencia en educación tecnológica** 👨‍🏫.  
 Integro innovación educativa y desarrollo de software para crear soluciones escalables, seguras y con impacto real.
 
 Me especializo en:
