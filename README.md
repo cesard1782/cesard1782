@@ -1,71 +1,112 @@
-![Coding Banner Perfil](https://res.cloudinary.com/das5wexs7/image/upload/v1759788003/ChatGPT_Image_28_ago_2025_15_36_33_qm4cic.png)
-# 👋 ¡Hola! Soy César Delgado
+![Coding Banner Perfil](https://res.cloudinary.com/das5wexs7/image/upload/v1761016849/backgroundDeveloper_xds5cu.jpg)
+<h1 align="center">👋 ¡Hola, soy César Delgado!</h1>
+<h3 align="center">💻 Backend Developer | Full Stack | EduTech Innovator</h3>
+<p align="center">Apasionado por el desarrollo de soluciones que combinan código, educación y tecnología.</p>
 
-**Full Stack Web Developer | Especialista en Backend**  
-Apasionado por construir **aplicaciones escalables, seguras y eficientes** usando **Node.js, NestJS, TypeScript y PostgreSQL**.  
-💡 Me encanta optimizar APIs, aprender nuevas tecnologías y compartir conocimiento.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" alt="Coding Banner">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="coding gif">
+</p>
 
 ---
 
-## 🚀 Sobre mí
+### 🚀 Sobre mí
 
-- Backend Developer enfocado en **APIs RESTful**, arquitecturas modulares y buenas prácticas.  
-- Experiencia en educación tecnológica, fortaleciendo mi habilidad de **comunicar conceptos complejos** y liderar proyectos.  
-- Actualmente en búsqueda de **oportunidades como Backend Developer o Full Stack Developer (Backend-focused)**.
+Soy **César Delgado**, un apasionado desarrollador web full stack con especial enfoque en **backend development** y más de **20 años de experiencia en educación tecnológica** 👨‍🏫.  
+Integro innovación educativa y desarrollo de software para crear soluciones escalables, seguras y con impacto real.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Developer GIF">
-</div>
-
----
-
-## 🛠 Tecnologías & Herramientas
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FF2D20?style=flat-square&logo=typeorm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Me especializo en:
+- **Node.js**, **NestJS**, **TypeScript**, **PostgreSQL**, **TypeORM**
+- Desarrollo de **APIs RESTful** y arquitecturas **modulares**
+- **Buenas prácticas**, rendimiento y mantenibilidad del código
+- Integración de **STEM + programación** para formar talento digital
 
 ---
 
-## 🌟 Actitudes Profesionales
+### 🛠️ Tecnologías y Herramientas
 
-- ✅ **Proactivo**  
-- ✅ **Aprendizaje continuo**  
-- ✅ **Colaborador**  
-- ✅ **Responsable**  
-- ✅ **Adaptable**
+#### 🧠 Backend  
+`Node.js` | `NestJS` | `TypeScript` | `Express.js` | `TypeORM` | `JWT` | `Passport` | `OAuth2`  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/xUPGcl3ijl57IqDriI/giphy.gif" alt="Teamwork GIF">
-</div>
+#### 🎨 Frontend  
+`HTML5` | `CSS3` | `JavaScript` | `React` | `Redux` | `Responsive Design` | `UX/UI`  
 
----
+#### 🗄️ Bases de Datos  
+`PostgreSQL` | `MongoDB` | `Mongoose`  
 
-## 📫 Contacto
+#### ⚙️ DevOps y Control de Versiones  
+`Docker` | `Git` | `GitHub` | `CI/CD`  
 
-- 📧 Email: [cesard1782@gmail.com](mailto:cesar1782@gmail.com)  
-- 💻 GitHub: [github.com/cesard1782](https://github.com/cesard1782)
-- 🌍 LinkedIn: [linkedin.com/in/cesard1782](https://linkedin.com/in/cesard1782)
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Contact GIF">
-</div>
+#### 🧩 Otros  
+`WordPress` | `Arduino` | `STEM` | `Diseño de contenidos técnicos` | `Educación digital`
 
 ---
 
-## ⚡ Curiosidades
+### 💼 Experiencia Relevante
 
-- 🎯 Optimizo APIs y mejoro la **eficiencia del backend**.  
-- 📚 Siempre aprendiendo nuevas tecnologías y frameworks.  
-- 🤝 Creo firmemente en el **trabajo en equipo** y en **compartir conocimiento** con la comunidad.  
+**Unidad Educativa Particular “Despertar – SKAS”**  
+*Encargado de Páginas Web y Docente STEM*  
+📍 Quito, Ecuador | 🗓️ 2019 – 2024  
+- Desarrollo y mantenimiento del sitio web institucional.  
+- Implementación de proyectos de robótica educativa con Arduino.  
+- Aplicación de análisis de datos académicos y estrategias STEM.  
 
-> ¡Gracias por visitar mi perfil! 🚀  
-> Si quieres colaborar o tienes alguna oportunidad interesante, no dudes en contactarme.
+**Unidad Educativa “Francis Bacon”**  
+*Docente de Bachillerato Técnico en Informática*  
+📍 Quito, Ecuador | 🗓️ 2018 – 2019  
+- Enseñanza de desarrollo web, lógica de programación y bases de datos.  
+- Creación de recursos educativos interactivos para el área técnica.  
+
+---
+
+### 🎓 Formación Académica
+
+🎓 **Licenciado en Educación, mención Informática** – UPEL  
+🎓 **Tecnólogo en Desarrollo de Software** – IUFRONT  
+🎓 **Tecnólogo en Educación Especial** – CUMT  
+📘 **Bootcamp Full Stack – Especialización en Backend** – Henry (2025)  
+
+---
+
+### 🔥 Proyecto Destacado
+
+- 🚀 [PetAdoption-Back](https://github.com/GrupoHenry3/petAdoption-back) (Back end) — API RESTful desarrollada con NestJS + PostgreSQL en el contexto de adopción de mascotas, implementando autenticación, roles y arquitectura modular. 
+
+---
+
+### 🌱 En constante aprendizaje
+
+> “La tecnología cambia, pero la pasión por aprender y enseñar se mantiene.”  
+Actualmente estoy perfeccionando mis habilidades en **arquitecturas backend modernas**, **contenedores Docker** y **metodologías ágiles**.
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="mailto:cesard1782@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/cesard1782"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/cesard1782"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+📍 Quito, Ecuador
+📞 [+593 964 005 165](tel:+593964005165)
+💬 [WhatsApp](https://wa.me/593964005165)   
+✉️ cesard1782@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/cesard1782)  
+💻 [GitHub](https://github.com/cesard1782)  
+
+---
+
+### 🏅 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Node.js-success?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Framework-NestJS-red?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker" />
+</p>
+
+---
+
+<h4 align="center">💡 “Code • Teach • Inspire” 💡</h4>
