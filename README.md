@@ -90,7 +90,6 @@ Actualmente estoy perfeccionando mis habilidades en **arquitecturas backend mode
 
 📍 Quito, Ecuador  
 📞 [+593 964 005 165](tel:+593964005165)  
-📞 <a href="tel:+593964005165">+593 964 005 165</a>
 💬 [WhatsApp](https://wa.me/593964005165)   
 ✉️ [cesard1782@gmail.com](mailto:cesard1782@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/cesard1782) 
