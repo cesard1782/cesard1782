@@ -8,9 +8,7 @@
 </p> -->
 
 <p align="center">
-  <video width="250" autoplay loop muted>
-    <source src="https://res.cloudinary.com/das5wexs7/video/upload/du3J3cXyzhj75IOgvA.mp4" type="video/mp4">
-  </video>
+  <img src="https://res.cloudinary.com/das5wexs7/image/upload/du3J3cXyzhj75IOgvA.gif" width="250" alt="coding gif">
 </p>
 
 ---
