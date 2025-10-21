@@ -8,7 +8,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cesard1782/cesard1782/main/assets/du3J3cXyzhj75IOgvA.gif" width="250" alt="coding gif">
+  <img src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="coding gif">
 </p>
 
 ---
