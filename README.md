@@ -8,7 +8,9 @@
 </p> -->
 
 <p align="center">
-  <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="coding gif">
+  <a href="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+    <img src="https://raw.githubusercontent.com/cesard1782/cesard1782/main/assets/du3J3cXyzhj75IOgvA.gif" width="250" alt="coding gif">
+  </a>
 </p>
 
 
