@@ -3,8 +3,12 @@
 <h3 align="center">💻 Backend Developer | Full Stack | EduTech Innovator</h3>
 <p align="center">Apasionado por el desarrollo de soluciones que combinan código, educación y tecnología.</p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="coding gif">
+</p> -->
+
+<p align="center">
+  <img src="https://i.giphy.com/du3J3cXyzhj75IOgvA.gif" width="250" alt="coding gif">
 </p>
 
 ---
